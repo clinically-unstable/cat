@@ -1,6 +1,4 @@
-.center {
-    text-align: center;
-}
+
 
 .boldonse-regular {
     font-family: "Boldonse", system-ui;
@@ -9,5 +7,13 @@
   }
   
 h1 {
-    font-family:'boldonse-regular'
+    font-family:'boldonse-regular';
+}
+
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-image: url("https://media.istockphoto.com/id/1303521061/vector/abstract-gray-dot-pattern-background-with-stripes.jpg?s=612x612&w=0&k=20&c=6fRVie_q61qhT1lOwP8JxXCPcN0CzRE-7Qu_rKNtw9E=");
+    height: 100%;
 }
